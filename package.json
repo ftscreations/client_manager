@@ -1,0 +1,34 @@
+{
+  "name": "client-manager",
+  "title": "Client Manager",
+  "description": "Manage client is, projects, invoices and more all from the backend of Wordpress.",
+  "version": "0.1.0",
+  "homepage": "http://ftscreations.com/cplugins/client-manager",
+  "author": "Josh Cross <joshcross@ftscreations.com> (http://ftscreations.com)",
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-concat": "~0.5.0",
+    "grunt-contrib-uglify": "~0.6.0",
+    "grunt-contrib-cssmin": "~0.10.0",
+    "grunt-contrib-jshint": "~0.10.0",
+    "grunt-contrib-nodeunit": "~0.4.1",
+    "grunt-contrib-watch": "~0.6.1",
+    "grunt-contrib-clean": "~0.6.0",
+    "grunt-contrib-copy": "~0.7.0",
+    "grunt-contrib-compress": "~0.12.0",
+    "grunt-contrib-sass": "~0.8.0"
+  },
+  "keywords": [],
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/ftscreations/clientmanager"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ftscreations/clientmanager/issues"
+  }
+}

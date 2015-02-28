@@ -1,0 +1,13 @@
+/**
+ * Client Manager
+ * http://ftscreations.com/cplugins/client-manager
+ *
+ * Copyright (c) 2014 Josh Cross
+ * Licensed under the GPLv2+ license.
+ */
+ 
+( function( window, undefined ) {
+	'use strict';
+
+
+} )( this );
